@@ -175,7 +175,7 @@ int readFile(string FILE_NAME,const int MAX,const unsigned MIN_WORD,NODE* table[
     string resultWord;
     unsigned int index;
     int collisions=0;
-    cout<<"Project done by ZOE ZHOU\n\nOpening file ulyss12.txt\n\n";
+    cout<<"Project done by Nakul Bageja\n\nOpening file ulyss12.txt\n\n";
     inFile.open(FILE_NAME);
 
     if(inFile.fail())
